@@ -1,1 +1,3 @@
 Hola, mi nombre es Diego Pardo Montero. 
+
+Mi edad es de 17 años. 
