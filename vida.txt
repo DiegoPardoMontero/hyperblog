@@ -4,4 +4,6 @@ Mi edad es de 17 años.
 
 Mi altura es de 1.74 aproximadamente.
 
+Nadie más ha contribuido al proyecto OpenSource.
+
 Me gusta mucho leer. 
