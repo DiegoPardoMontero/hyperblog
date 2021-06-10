@@ -7,3 +7,6 @@ En este curso vemos de Todo:
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas 
 - Credito a Team Platzi
+- Credito a Team Platzi
+- Para todo el público
+- Más de 10 horas de esfuerzo
