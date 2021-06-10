@@ -6,3 +6,4 @@ En este curso vemos de Todo:
 - Todos los comandos de Git
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas 
+- Credito a Team Platzi
