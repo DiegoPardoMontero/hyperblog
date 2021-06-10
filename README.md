@@ -8,3 +8,4 @@ En este curso vemos de Todo:
 - El verdadero amor por las buenas prácticas 
 - Credito a Team Platzi
 - Para todo el público
+- Más de 10 horas de esfuerzo
